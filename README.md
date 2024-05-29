@@ -11,8 +11,8 @@ I'm @Bugstacker, your friendly neighborhood self-taught programmer with a knack 
 ## 💡 My Skills
 - **Languages**: HTML, CSS (Tailwind & Bootstrap), JavaScript, Python
 - **Frameworks**: React, NEXTJS, Django
-- **Tools**: Git, GitHub, VS Code
-- **Interests**: Cybersecurity, ethical hacking
+- **Tools**: Git, GitHub, VS Code, NPM, Webpack, WebStorm, PyCharm
+- **Interests**: Cybersecurity, Ethical hacking
 
 ## 🌟 Featured Project
 Check out one of my latest projects: **Amazing Project** (Placeholder for your project details)
