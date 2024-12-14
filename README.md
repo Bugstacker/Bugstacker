@@ -15,7 +15,9 @@ I'm @Bugstacker, your friendly neighborhood self-taught programmer with a knack 
 - **Interests**: Cybersecurity, Ethical hacking
 
 ## 🌟 Featured Project
-Check out one of my latest projects: **Amazing Project** (Placeholder for your project details)
+Check out one of my latest projects: **Amazing Projects** 
+- [Mina Care Services Ltd](https://mina-cares-ervices.co.uk)
+- [Resi Staffing and Services Ltd](https://resistaffingandservices.co.uk)
 
 ## 📂 Real-World Projects
 I have several real-world projects that showcase my skills and expertise. Many of these are private repositories, but I'm happy to share them upon request. If you're looking for someone passionate about all things tech, I won't disappoint!
