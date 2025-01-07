@@ -6,7 +6,7 @@ I'm @Bugstacker, your friendly neighborhood self-taught programmer with a knack 
 - 🌱 **Learning**: All the ins and outs of web development and ethical hacking.
 - 👯 **Looking to collaborate on**: Any cool project where I can lend a hand and learn something new.
 - 💬 **Ask me about**: Programming, web development, cybersecurity, or even the latest tech memes!
-- 📫 **How to reach me**: Conatct me via my portfolio [emkay.dev](https://kennethmatovu.vercel.app). Let's conect!
+- 📫 **How to reach me**: Conatct me via my portfolio [emkay.dev](https://kennethmatovu.vercel.app). Let's work on something amazing!
 
 ## 💡 My Skills
 - **Languages**: HTML, CSS (Tailwind & Bootstrap), JavaScript, Python
