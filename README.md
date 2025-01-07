@@ -1,5 +1,5 @@
 # Hey there! 👋 Welcome to my GitHub Profile!
-I'm @Bugstacker, your friendly neighborhood self-taught programmer with a knack for exploring everything related to computers. From programming and hacking to web designing, I'm always diving into new tech adventures.
+I'm Kenneth Matovu, your friendly neighborhood programmer with a knack for exploring everything related to computers. From programming and hacking to web designing, I'm always diving into new tech adventures.
 
 ## 🚀 About Me
 - 🔭 **Currently working on**: Mastering the art of web design and creating visually stunning, user-friendly websites.
@@ -21,6 +21,9 @@ Check out one of my latest projects: **Amazing Projects**
 
 ## 📂 Real-World Projects
 I have several real-world projects that showcase my skills and expertise. Many of these are private repositories, but I'm happy to share them upon request. If you're looking for someone passionate about all things tech, I won't disappoint!
+
+#### 🔖 Resume
+Checkout my [resume](https://kennethmatovu.vercel.app/resume.pdf)
 
 ## 🎮 A Little Game for You
 Let's play a quick text-based game to make things interesting! Guess the secret number between 1 and 10. 
