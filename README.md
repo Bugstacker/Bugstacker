@@ -6,7 +6,7 @@ I'm @Bugstacker, your friendly neighborhood self-taught programmer with a knack 
 - 🌱 **Learning**: All the ins and outs of web development and ethical hacking.
 - 👯 **Looking to collaborate on**: Any cool project where I can lend a hand and learn something new.
 - 💬 **Ask me about**: Programming, web development, cybersecurity, or even the latest tech memes!
-- 📫 **How to reach me**: Find me on Twitter [@emkaysr](https://twitter.com/emkaysr). Let's chat!
+- 📫 **How to reach me**: Conatct me via my portfolio [emkay.dev](https://kennethmatovu.vercel.app). Let's conect!
 
 ## 💡 My Skills
 - **Languages**: HTML, CSS (Tailwind & Bootstrap), JavaScript, Python
@@ -14,7 +14,7 @@ I'm @Bugstacker, your friendly neighborhood self-taught programmer with a knack 
 - **Tools**: Git, GitHub, VS Code, NPM, Webpack, WebStorm, PyCharm
 - **Interests**: Cybersecurity, Ethical hacking
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 Check out one of my latest projects: **Amazing Projects** 
 - [Mina Care Services Ltd](https://mina-cares-ervices.co.uk)
 - [Resi Staffing and Services Ltd](https://resistaffingandservices.co.uk)
